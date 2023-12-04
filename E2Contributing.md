@@ -6,3 +6,6 @@ Lo primero que hay que hacer es instalar el Git extension. A mi por ejemplo me h
 ## Clonar el repositorio
 Ahora nos preguntara de donde queremos clonar el repositorio, indicaremos la URL que deseamos y luego el destino del repositorio de forma local, entre otras caracteristicas. <br>
 ![Alt text](image-1.png)
+
+## Los cambios del compañero
+![Alt text](image.png)
